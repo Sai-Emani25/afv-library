@@ -205,11 +205,7 @@ requires_deploy: false
 
 ### How to Contribute
 
-1. Clone the repository
-2. Create a feature branch: `git checkout -b add-new-prompt`
-3. Add your prompt/rule following the format
-4. Test thoroughly
-5. Create a pull request with description
+See [Contributing](./CONTRIBUTING.md) for complete details.
 
 **Contribution checklist**
 - Confirm the file lives in the correct category folder

@@ -80,7 +80,7 @@ tags: apex, rules, guardrails, testing, security
 - Create test data using `@TestSetup` methods when possible
 - Mock external services and callouts
 - Do not use `SeeAllData=true`
-- Test bulk trigger functionality
+- Test bulk trigger functionality. 
 
 ## Test Data Management Requirements
 - Use `Test.loadData()` for large datasets

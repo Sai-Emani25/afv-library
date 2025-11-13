@@ -1,1 +1,0 @@
-Always use Flows for automation.
